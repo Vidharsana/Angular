@@ -1,0 +1,131 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+  margin: 0;
+  padding: 0;
+  background: url('assets/images/img1.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+.navbar {
+  background: linear-gradient(90deg, #ff8a00, #e52e71);
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+
+button {
+  background: linear-gradient(90deg, #36d1dc, #5b86e5);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: linear-gradient(90deg, #5b86e5, #36d1dc);
+}
+
+
+.form-container {
+  width: 20%; 
+  max-width: 250px; 
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 60px auto; 
+  text-align: left;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+input, select, textarea {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+input:focus, textarea:focus {
+  border-color: #5b86e5;
+  outline: none;
+}
+
+
+.form-container h2 {
+  text-align: center;
+  color: #e52e71;
+}
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: white;
+}
+
+th {
+  background: linear-gradient(90deg, #ff8a00, #e52e71);
+  color: white;
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.card {
+  background: white;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px;
+}
+
+.card h2 {
+  color: #e52e71;
+}
+
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.fade-in {
+  animation: fadeIn 1s ease-in-out;
+}
+
+.edit-btn, .delete-btn {
+  background: linear-gradient(90deg,  #5b86e5); 
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+.edit-btn:hover, .delete-btn:hover {
+  background: linear-gradient(90deg,  #5b86e5);
+  display: flex;
+  gap: 10px; 
+}
