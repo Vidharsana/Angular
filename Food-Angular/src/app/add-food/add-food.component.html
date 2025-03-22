@@ -1,0 +1,13 @@
+
+<div>
+  <label for="foodId">Food ID</label>
+  <input type="number" id="foodId" [(ngModel)]="foodId">
+</div>
+
+<div>
+  <label for="foodName">Food Name</label>
+  <input type="text" id="foodName" [(ngModel)]="foodName">
+</div>
+
+<button (click)="addFood()">Add Food</button>
+<p>{{ message }}</p>

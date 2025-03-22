@@ -1,0 +1,136 @@
+{
+  "reservations": [
+    {
+      "id": "1",
+      "custName": "Shanmathi",
+      "custContact": "9629737601",
+      "custAdd": "9/19,KumaraSamy Pettai, Uzhavar Street, Dharmapuri.",
+      "seatCount": 10,
+      "custBooking": "AC",
+      "custSeat": "Family",
+      "custOcca": "Family",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "2",
+      "custName": "Vanmathi",
+      "custContact": "9373746312",
+      "custAdd": "695, Vaththalmalia, Tiruchengode-637215.",
+      "seatCount": 10,
+      "custBooking": "AC",
+      "custSeat": "Family",
+      "custOcca": "Family",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "3",
+      "custName": "Gayathri",
+      "custContact": "8248871700",
+      "custAdd": "1156/4, South Gandhi Grammam, Karur-4",
+      "seatCount": 2,
+      "custBooking": "Ac",
+      "custSeat": "Couples",
+      "custOcca": "Candle Light Dinner",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "4",
+      "custName": "darunika",
+      "custContact": "8807801294",
+      "custAdd": "3/303, Modamangalam, tiruchengode ",
+      "seatCount": 2,
+      "custBooking": "Ac",
+      "custSeat": "Couples",
+      "custOcca": "Dating",
+      "custFood": "veg"
+    },
+    {
+      "id": "5",
+      "custName": "SasiKumar",
+      "custContact": "9876543210",
+      "custAdd": "420, Nehur Nagar, MuniRaj, krishnagiri-1",
+      "seatCount": 100,
+      "custBooking": "Ac",
+      "custSeat": "Family",
+      "custOcca": "Engagement",
+      "custFood": "veg"
+    },
+    {
+      "id": "6",
+      "custName": "VasanthKumar",
+      "custContact": "9344657929",
+      "custAdd": "149, Perumpalaiyam, Dharmapuri- 636701",
+      "seatCount": 6,
+      "custBooking": "Ac",
+      "custSeat": "Friends",
+      "custOcca": "Normal",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "7",
+      "custName": "ArulKumar",
+      "custContact": "8870596571",
+      "custAdd": "8653, Kaniyamoor, KallaKurichi-6",
+      "seatCount": 2,
+      "custBooking": "Ac",
+      "custSeat": "Couples",
+      "custOcca": "Dating",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "8",
+      "custName": "Sahana",
+      "custContact": "7603810314",
+      "custAdd": "21, Nehur illam, Tea Shop, Krishnagiri",
+      "seatCount": 2,
+      "custBooking": "Ac",
+      "custSeat": "Couples",
+      "custOcca": "Moon Light Dinner",
+      "custFood": "veg"
+    },
+    {
+      "id": "9",
+      "custName": "SharnithaMalar",
+      "custContact": "9087955747",
+      "custAdd": "522, Paramathi Vellore, Namakkal-636721",
+      "seatCount": 13,
+      "custBooking": "Ac",
+      "custSeat": "Family",
+      "custOcca": "Get-to-gether",
+      "custFood": "veg"
+    },
+    {
+      "id": "10",
+      "custName": "Babu",
+      "custContact": "9047992753",
+      "custAdd": "9/19, Uzhavar Street, Dharmapuri-636701",
+      "seatCount": 3,
+      "custBooking": "Ac",
+      "custSeat": "Family",
+      "custOcca": "Family",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "10",
+      "custName": "Babu",
+      "custContact": "9047992753",
+      "custAdd": "9/19, Uzhavar Street, Dharmapuri-636701",
+      "seatCount": 3,
+      "custBooking": "Ac",
+      "custSeat": "Family",
+      "custOcca": "Family",
+      "custFood": "non-veg"
+    },
+    {
+      "id": "11",
+      "custName": "Vijayalakshmi",
+      "custContact": "8870427611",
+      "custAdd": "9/19, Uzhavar Street, Dharmapuri-636701",
+      "seatCount": 3,
+      "custBooking": "Ac",
+      "custSeat": "Family",
+      "custOcca": "Normal",
+      "custFood": "non-veg"
+    }
+  ]
+}
