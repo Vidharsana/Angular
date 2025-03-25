@@ -11,6 +11,7 @@ import { HttpErrorResponse } from '@angular/common/http';
   templateUrl: './add-food.component.html',
   styleUrls: ['./add-food.component.css']
 })
+
 export class AddFoodComponent {
   foodName: string = '';
   foodId: number = 0;
